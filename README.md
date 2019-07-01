@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Hi, I'm Leon. Looking to make my first steps on github.
